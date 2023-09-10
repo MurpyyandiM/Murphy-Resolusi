@@ -1,6 +1,8 @@
 Rencana Konten Murphy
 
 - JavaScript
+*ES6
+*Framework JavaScipt
 - PHP Framworks
 - Interview
 - Vlogs
